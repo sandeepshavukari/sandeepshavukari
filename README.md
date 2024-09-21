@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
-<h1>A passionate Web developer from India</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 - 🔭 I’m currently working on **Voice2Govt**
 
 - 🌱 I’m currently learning **Spring**
@@ -14,8 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40Sandeep-Shavukri?style=flat-square&logo=linkedin
-" alt="sandy20499" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40sandeep-shavukri" alt="sandy20499" /></a> </p>
 
 
 
