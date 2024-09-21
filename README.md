@@ -1,4 +1,3 @@
-
 ![MasterHead](https://storage.googleapis.com/a1aa/image/zTnUQ3oGFTY6NVzNSGRMFInrGzTvhO9LvRxAoHLP7uQlZx3E.jpg)
 <!-- <h3 align="center">A passionate Web developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -19,7 +18,7 @@
 
 
 
-- 📄 Know about my experiences [https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200032015_kluniversity_in/EQndWyNcUKZIibx4vk4ta14B2fa7n72wQSAQkbfQ0T8bgw?e=0QLqqB](https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200032015_kluniversity_in/EQndWyNcUKZIibx4vk4ta14B2fa7n72wQSAQkbfQ0T8bgw?e=0QLqqB)
+- 📄 Know about my experiences [https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200032015_kluniversity_in/EQndWyNcUKZIibx4vk4ta14B2fa7n72wQSAQkbfQ0T8bgw?e=0QLqqB](Resume) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
