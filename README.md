@@ -18,7 +18,7 @@
 
 
 
-- 📄 Know about my experiences [https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200032015_kluniversity_in/EQndWyNcUKZIibx4vk4ta14B2fa7n72wQSAQkbfQ0T8bgw?e=0QLqqB](Resume) 
+- 📄 Know about my experiences [https://tinyurl.com/mr263s3b](Resume) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
