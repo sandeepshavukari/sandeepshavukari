@@ -14,7 +14,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40sandeep-shavukri" alt="sandy20499" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="![Static Badge](https://img.shields.io/badge/Follow%20%40Sandeep-Shavukri?style=flat-square&logo=linkedin)
+" alt="sandy20499" /></a> </p>
 
 
 
