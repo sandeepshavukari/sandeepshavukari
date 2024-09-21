@@ -3,11 +3,6 @@
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sandy20499" target="blank"><img src="https://img.shields.io/twitter/follow/sandy20499?logo=twitter&style=for-the-badge" alt="sandy20499" /></a> </p>
-
 - 🔭 I’m currently working on **Voice2Govt**
 
 - 🌱 I’m currently learning **Spring**
@@ -16,11 +11,17 @@
 
 - 📫 How to reach me **sandy20499@gmail.com**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sandy20499" target="blank"><img src="https://img.shields.io/twitter/follow/sandy20499?logo=twitter&style=for-the-badge" alt="sandy20499" /></a> </p>
+
+
+
 - 📄 Know about my experiences [https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200032015_kluniversity_in/EQndWyNcUKZIibx4vk4ta14B2fa7n72wQSAQkbfQ0T8bgw?e=0QLqqB](https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200032015_kluniversity_in/EQndWyNcUKZIibx4vk4ta14B2fa7n72wQSAQkbfQ0T8bgw?e=0QLqqB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandy20499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandy20499" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandy20499" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shavukari-sandeep" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sandeep-shavukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sandeep-shavukari" height="30" width="40" /></a>
 <a href="https://fb.com/sandeep shavukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep shavukari" height="30" width="40" /></a>
