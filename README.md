@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1>A passionate Web developer from India</h1>
 - 🔭 I’m currently working on **Voice2Govt**
 
 - 🌱 I’m currently learning **Spring**
