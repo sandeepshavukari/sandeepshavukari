@@ -1,7 +1,5 @@
-![MasterHead](https://storage.googleapis.com/a1aa/image/zTnUQ3oGFTY6NVzNSGRMFInrGzTvhO9LvRxAoHLP7uQlZx3E.jpg)
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<h1>Hi 👋, I'm Shavukari Sandeep</h1>
+ <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1> Hi 👋, I'm Shavukari Sandeep </h1>
 <h1>A passionate Web developer from India</h1>
 - 🔭 I’m currently working on **Voice2Govt**
 
@@ -12,7 +10,7 @@
 - 📫 How to reach me **sandy20499@gmail.com**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
+<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
 
 <p align="left"> <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40sandeep-shavukri" alt="sandy20499" /></a> </p>
 
