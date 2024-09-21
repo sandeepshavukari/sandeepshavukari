@@ -1,9 +1,8 @@
-![MasterHead]("https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://storage.googleapis.com/a1aa/image/zTnUQ3oGFTY6NVzNSGRMFInrGzTvhO9LvRxAoHLP7uQlZx3E.jpg)
+<h3 align="center">A passionate Web developer from India</h3>
+img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<!-- img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
-<!-- <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
-<h3 align="center">A passionate Web developer from India</h3> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
 
