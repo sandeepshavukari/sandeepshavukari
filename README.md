@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **sandy20499@gmail.com**
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sandy20499" target="blank"><img src="https://img.shields.io/twitter/follow/sandy20499?logo=twitter&style=for-the-badge" alt="sandy20499" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40sandeep-shavukri" alt="sandy20499" /></a> </p>
 
 
 
@@ -21,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandy20499" height="30" width="40" /></a>
+<a href="https://twitter.com/sandy20499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandy20499" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shavukari-sandeep" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sandeep-shavukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sandeep-shavukari" height="30" width="40" /></a>
 <a href="https://fb.com/sandeep shavukari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep shavukari" height="30" width="40" /></a>
