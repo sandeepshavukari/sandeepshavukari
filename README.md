@@ -1,4 +1,4 @@
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://storage.googleapis.com/a1aa/image/zTnUQ3oGFTY6NVzNSGRMFInrGzTvhO9LvRxAoHLP7uQlZx3E.jpg)] (Sandeep...)
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
