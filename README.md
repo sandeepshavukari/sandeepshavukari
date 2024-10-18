@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40shavukari--sandeep-blue" alt="LinkedIn" /></a> 
 </p>
 
-- 📄 Know about my experiences <a href=" https://1drv.ms/b/c/afa8f9abec30f20c/EW0IgTxPqd5GjxwzFKTeSpwBHqPk9_Hzyn0-3SoDUC396Q?e=HHjL5f" download><img src="https://img.shields.io/badge/Download-blue" alt="Resume"/></a>
+- 📄 Know about my experiences <a href="https://1drv.ms/b/c/afa8f9abec30f20c/EW0IgTxPqd5GjxwzFKTeSpwBHqPk9_Hzyn0-3SoDUC396Q?e=HHjL5f" download><img src="https://img.shields.io/badge/Download-blue" alt="Resume"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
