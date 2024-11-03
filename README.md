@@ -16,6 +16,8 @@
 - 💬 Ask me about **Java, JPA, JSF, HTML, Hibernate**
 - 📫 How to reach me **sandy20499@gmail.com**
 
+
+
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari" alt="sandeepshavukari" /></a> 
 </p>
