@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/shavukari-sandeep" target="blank"><img src="https://img.shields.io/badge/Follow%20%40shavukari--sandeep-blue" alt="LinkedIn" /></a> 
 </p>
 
-- 📄 Know about my experiences <a href="https://path-to-your-resume.pdf" download><img src="https://img.shields.io/badge/Download-blue" alt="Resume"/></a>
+- 📄 Resume <a href="(https://1drv.ms/b/c/afa8f9abec30f20c/EXhL72f-O5tKpJcsQ8wPciABGzyO_IMo8A7W21s3r8yZGA?e=ZvPoIe)" download><img src="https://img.shields.io/badge/Download-blue" alt="Resume"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,15 +77,7 @@
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
+  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -94,10 +86,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
-  <!-- Heroku -->
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
+ 
 </p>
 <!-- GitHub Stats and Streak -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepshavukari&show_icons=true&locale=en&layout=compact" alt="sandeepshavukari" /></p>
