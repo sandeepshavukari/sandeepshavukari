@@ -1,6 +1,7 @@
 <!-- MasterHead -->
 <p align="center">
   <img src="https://storage.googleapis.com/a1aa/image/zTnUQ3oGFTY6NVzNSGRMFInrGzTvhO9LvRxAoHLP7uQlZx3E.jpg" alt="MasterHead" width="300">
+<!--   <img src="https://storage.googleapis.com/a1aa/image/zTnUQ3oGFTY6NVzNSGRMFInrGzTvhO9LvRxAoHLP7uQlZx3E.jpg" alt="MasterHead" width="300"> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
