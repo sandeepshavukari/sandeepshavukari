@@ -81,9 +81,9 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Voice2Govt](https://sandeep-portfolio-six.vercel.app/)** | Citizen-government interaction platform | Java, React, Spring Boot, MySQL |
-| **OP Hospital Management** | Patient-doctor appointment system | JSF, Bootstrap, Oracle |
-| **Indian Culture Portal** | Showcase of India’s heritage | HTML, CSS, JavaScript |
+| **[Voice2Govt](https://github.com/sandeepshavukari/Voice2Govt-SpringBoot-React)** | Citizen-government interaction platform | Java, React, Spring Boot, MySQL |
+| **[OP Hospital Management](https://github.com/sandeepshavukari/OPMS/tree/main)** | Patient-doctor appointment system | JSF, Bootstrap, Oracle |
+| **[Indian Culture Portal](https://github.com/sandeepshavukari/Indian-Culture-Managemet-React-Website)** | Showcase of India’s heritage | HTML, CSS, JavaScript |
 | **Online Exam Portal** | Secure exam platform | React, Spring Boot, AWS |
 
 ---
