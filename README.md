@@ -83,8 +83,8 @@
 |---------|-------------|------------|
 | **[Voice2Govt](https://github.com/sandeepshavukari/Voice2Govt-SpringBoot-React)** | Citizen-government interaction platform | Java, React, Spring Boot, MySQL |
 | **[OP Hospital Management](https://github.com/sandeepshavukari/OPMS/tree/main)** | Patient-doctor appointment system | JSF, Bootstrap, Oracle |
-| **[Indian Culture Portal](https://github.com/sandeepshavukari/Indian-Culture-Managemet-React-Website)** | Showcase of India’s heritage | HTML, CSS, JavaScript |
-| **Online Exam Portal** | Secure exam platform | React, Spring Boot, AWS |
+| **[Indian Culture Portal](https://github.com/sandeepshavukari/Indian-Culture-Managemet-React-Website)** | Showcase of India’s heritage | MongoDB , Express.js, React |
+| **ChatApp** | Secret Chatting Application | Spring Boot, HTML , CSS , JavaScriptJ |
 
 ---
 
