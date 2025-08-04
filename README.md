@@ -82,9 +82,13 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepshavukari&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Languages">
 </p>
 
-<!-- Snake Animation - Will appear after merging to main branch -->
+****
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-contribution-grid-snake.svg" alt="Snake eating contributions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
