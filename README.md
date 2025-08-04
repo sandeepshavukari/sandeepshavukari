@@ -10,12 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sandeep-portfolio-six.vercel.app/" target="_blank">
-    <img alt="Coding Snake" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlwMXp1M2ZmcXlwMTR4MDRxZWVzYnUwc2I3d2Qxd3ZlYWx2Z3U1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqFf9F5j7KjMhD7cWd/giphy.gif">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/shavukari-sandeep" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -86,6 +80,15 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepshavukari&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" alt="Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepshavukari&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Languages">
+</p>
+
+****
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sandeepshavukari/sandeepshavukari/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
