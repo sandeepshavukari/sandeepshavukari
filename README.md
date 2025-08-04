@@ -41,40 +41,58 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+| Category       | Technologies                                                                                   |
+|----------------|------------------------------------------------------------------------------------------------|
+| **Languages**  | Java, C, JavaScript, Python                                                                   |
+| **Frontend**   | React, HTML5, CSS3, Bootstrap                                                                 |
+| **Backend**    | Spring Boot, Hibernate, JSF, Node.js                                                         |
+| **Databases**  | MySQL, Oracle, MongoDB                                                                       |
+| **Cloud/DevOps** | AWS, Docker, Git                                                                             |
+| **Tools**      | VS Code, Eclipse, Postman                                                                    |
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
 
 ---
 
-## 🏆 Projects
+## 🏆 Featured Projects
 
-<div align="center">
+### 1. Voice2Govt - Citizen Engagement Platform
+**🏅 Team Lead** | Sept 2024 - Dec 2024  
+**🛠️ Tech Stack:** Java, Spring Boot, React, MySQL  
+**✨ Highlights:**
+- Real-time issue reporting system
+- Government response tracking
+- Transparent status updates  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepshavukari/Voice2Govt-SpringBoot-React)
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Voice2Govt** | Citizen-government interaction platform | Java, Spring Boot, React | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/sandeepshavukari/Voice2Govt-SpringBoot-React) |
-| **OP Hospital** | Patient management system | JSF, Bootstrap, MySQL | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/sandeepshavukari/OPMS) |
-| **Indian Culture** | Cultural heritage showcase | MERN Stack | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/sandeepshavukari/Indian-Culture-Managemet-React-Website) |
-| **TextUtils** | Text processing tool | React.js | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/sandeepshavukari/text_utils) |
+### 2. OP Hospital Management System
+**🏅 Team Lead** | July 2024  
+**🛠️ Tech Stack:** JSF, Bootstrap, Java, MySQL  
+**✨ Highlights:**
+- Patient appointment system
+- Email notifications via SMTP
+- Responsive admin dashboard  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepshavukari/OPMS/tree/main)
 
-</div>
+### 3. Indian Culture Portal
+**🏅 Developer** | Dec 2023  
+**🛠️ Tech Stack:** MERN Stack  
+**✨ Highlights:**
+- Interactive cultural maps
+- Traditional recipes section
+- Virtual tours of landmarks  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepshavukari/Indian-Culture-Managemet-React-Website)
+
+### 4. TextUtils - Text Processing Tool
+**🏅 Developer** | Jan 2023  
+**🛠️ Tech Stack:** React.js  
+**✨ Highlights:**
+- Case conversion tools
+- Word/character counter
+- Clean minimalist UI  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepshavukari/text_utils)
 
 ---
 
@@ -88,7 +106,7 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/sandeepshavukari/sandeepshavukari/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/sandeepshavukari/sandeepshavukari/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions">
 </p>
 
 ---
