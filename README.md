@@ -32,8 +32,7 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
 
 - 🔭 Enhancing **[Voice2Govt](https://github.com/sandeepshavukari/Voice2Govt-SpringBoot-React)** - Citizen-government interaction platform
 - 🌱 Mastering **Microservices & Cloud Architecture**
-- 🏆 **2 Gold Medalist** in academics
-- 💡 **500+ DSA problems** solved across platforms
+- 💡 **300+ DSA problems** solved across platforms
 - 📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378**
 - ⚡ **Rubik's cube solver** (under 2 minutes!)
 
