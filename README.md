@@ -38,6 +38,7 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
 - 📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378**
 - ⚡ **Rubik's cube solver** (under 2 minutes!)
 
+
 ---
 
 ## 🛠️ Tech Stack
