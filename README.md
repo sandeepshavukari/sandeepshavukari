@@ -66,6 +66,7 @@ I'm a passionate **Full-Stack Developer** currently pursuing my BTech in Compute
 
 ---
 
+
 ## 🏆 Projects
 
 | Project | Description | Tech Stack | Link |
