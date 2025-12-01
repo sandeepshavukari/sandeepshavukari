@@ -1,5 +1,5 @@
 <p align="center">
-  
+
   <img src="https://github.com/sandeepshavukari.png" alt="Shavukari Sandeep" width="200" style="border-radius: 50%; border: 5px solid #4B8BBE; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 <h1 align="center" style="color: #2D4263;">Hi 👋, I'm Shavukari Sandeep</h1>
