@@ -1,4 +1,3 @@
-hi
 
 <p align="center">
 
