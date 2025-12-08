@@ -1,5 +1,4 @@
 
-
 <p align="center">
 
   <img src="https://github.com/sandeepshavukari.png" alt="Shavukari Sandeep" width="200" style="border-radius: 50%; border: 5px solid #4B8BBE; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
