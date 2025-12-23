@@ -37,11 +37,14 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frontend
-<img src="https://skillicons.dev/icons?i=java,c,js,react,bootstrap" />
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,aws" />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,c,js" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,bootstrap/>
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,SQL,Oracle" />
+### Backend 
+<img src="https://skillicons.dev/icons?i=spring,hibernate,springboot" />
 
 ---
 
