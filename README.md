@@ -43,11 +43,11 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=java,c,js" />
 
-### 🎨 Frontend (HTML • CSS • React)
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 
-### ⚙️ Backend (Spring Boot)
-<img src="https://skillicons.dev/icons?i=spring,springboot,hibernate" />
+### ⚙️ Backend 
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
