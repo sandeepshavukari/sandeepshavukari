@@ -86,8 +86,9 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepshavukari&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepshavukari" />
 </p>
+
 
 ---
 
