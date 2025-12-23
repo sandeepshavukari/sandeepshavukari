@@ -68,20 +68,8 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ## 📊 Codebase Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepshavukari&layout=donut&langs_count=10&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sandeepshavukari&show_icons=true&count_private=true" 
-  />
-  <br>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepshavukari" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepshavukari&layout=donut&langs_count=10" 
   />
 </p>
 
