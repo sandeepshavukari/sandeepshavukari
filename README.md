@@ -31,7 +31,9 @@
 I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science at KL University** with a **CGPA of 9.62**.
 
 - 🔭 Working on **Voice2Govt** – Citizen–Government Interaction Platform  
-- 🌱 Learning **Microservices & Cloud Architecture** - 🧠 Solved **300+ DSA problems** - 📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378** - ⚡ Fun fact: **Rubik’s cube solver (under 2 minutes)** ---
+- 🌱 Learning **Microservices & Cloud Architecture** - 🧠 Solved **300+ DSA problems**
+-  📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378**
+-   ⚡ Fun fact: **Rubik’s cube solver (under 2 minutes)** ---
 
 ## 🛠️ Tech Stack
 
