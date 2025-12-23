@@ -91,14 +91,18 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 
 
 ---
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepshavukari&show_icons=true&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepshavukari" />
+</p>
 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari&theme=flat&no-frame=true&no-bg=true&margin-w=15" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepshavukari&theme=flat&no-frame=true&no-bg=true" />
 </p>
 
 
