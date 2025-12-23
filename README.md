@@ -80,7 +80,7 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
     <img src="https://leetcard.jacoblin.cool/sandy_20499?theme=light&font=Fira%20Code" />
   </a>
 </p>
-
+---
 
 ## 📜 Certifications
 
