@@ -43,14 +43,17 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=java,c,js" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+### 🎨 Frontend (HTML • CSS • React)
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=spring,hibernate,springboot" />
+### ⚙️ Backend (Spring Boot)
+<img src="https://skillicons.dev/icons?i=spring,springboot,hibernate" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,git,github" />
 
 ---
 
@@ -59,7 +62,7 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 | Project | Description | Tech | Link |
 |-------|------------|------|------|
 | **Voice2Govt** | Citizen–Government Interaction Platform | Spring Boot, React | [View](https://github.com/sandeepshavukari/Voice2Govt-SpringBoot-React) |
-| **OP Hospital** | Patient & Appointment Management System | JSF, MySQL | [View](https://github.com/sandeepshavukari/OPMS) |
+| **OP Hospital** | Patient & Appointment Management System | JSF, Oracle, MySQL | [View](https://github.com/sandeepshavukari/OPMS) |
 | **Indian Culture** | Cultural Heritage Platform | MERN | [View](https://github.com/sandeepshavukari/Indian-Culture-Managemet-React-Website) |
 | **TextUtils** | Text Processing Utility | React | [View](https://github.com/sandeepshavukari/text_utils) |
 
