@@ -10,10 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shavukari-sandeep"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/sandeepshavukari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:sandy20499@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="tel:+919948914378"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp"/></a>
+  <a href="https://linkedin.com/in/shavukari-sandeep">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/sandeepshavukari">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:sandy20499@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="tel:+919948914378">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
 </p>
 
 ---
@@ -22,7 +30,7 @@
 
 I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science at KL University** with a **CGPA of 9.62**.
 
-- 🔭 Working on **Voice2Govt** – Citizen-Government Interaction Platform  
+- 🔭 Working on **Voice2Govt** – Citizen–Government Interaction Platform  
 - 🌱 Learning **Microservices & Cloud Architecture**  
 - 🧠 Solved **300+ DSA problems**  
 - 📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378**  
@@ -76,10 +84,23 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/sandy_20499" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sandy_20499?theme=light&font=Fira%20Code" />
+  <a href="https://leetcode.com/sandy_20499">
+    <img src="https://leetcard.jacoblin.cool/sandy_20499?theme=light&font=Fira%20Code&ext=contest" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/sandy20499">
+    <img src="https://img.shields.io/badge/CodeChef-Active-brown?style=for-the-badge&logo=codechef" />
+  </a>
+  <a href="https://codeforces.com/profile/sandy_20499">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://www.hackerrank.com/sandy20499">
+    <img src="https://img.shields.io/badge/HackerRank-5★-brightgreen?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
+
 ---
 
 ## 📜 Certifications
@@ -103,9 +124,15 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ## 📞 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shavukari-sandeep"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a>
-  <a href="https://leetcode.com/sandy_20499"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/></a>
-  <a href="https://sandeep-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/shavukari-sandeep">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/sandy_20499">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/>
+  </a>
+  <a href="https://sandeep-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+  </a>
 </p>
 
 <p align="center">
