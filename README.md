@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sandeepshavukari.png" alt="Shavukari Sandeep" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/sandeepshavukari.png" alt="Shavukari Sandeep" width="180" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shavukari Sandeep</h1>
@@ -11,16 +11,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shavukari-sandeep">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/sandeepshavukari">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:sandy20499@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+919948914378">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -31,34 +31,15 @@
 I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science at KL University** with a **CGPA of 9.62**.
 
 - 🔭 Working on **Voice2Govt** – Citizen–Government Interaction Platform  
-- 🌱 Learning **Microservices & Cloud Architecture**  
-- 🧠 Solved **300+ DSA problems**  
-- 📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378**  
-- ⚡ Fun fact: **Rubik’s cube solver (under 2 minutes)**  
-
----
+- 🌱 Learning **Microservices & Cloud Architecture** - 🧠 Solved **300+ DSA problems** - 📫 Reach me: **sandy20499@gmail.com** | **+91 9948914378** - ⚡ Fun fact: **Rubik’s cube solver (under 2 minutes)** ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+### 💻 Languages & Frontend
+<img src="https://skillicons.dev/icons?i=java,c,js,react,bootstrap" />
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,aws" />
 
 ---
 
@@ -91,13 +72,13 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 
 <p align="center">
   <a href="https://www.codechef.com/users/sandy20499">
-    <img src="https://img.shields.io/badge/CodeChef-Active-brown?style=for-the-badge&logo=codechef" />
+    <img src="https://img.shields.io/badge/CodeChef-Active-brown?style=flat&logo=codechef&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/sandy_20499">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?style=flat&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/sandy20499">
-    <img src="https://img.shields.io/badge/HackerRank-5★-brightgreen?style=for-the-badge&logo=hackerrank" />
+    <img src="https://img.shields.io/badge/HackerRank-5★-brightgreen?style=flat&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
@@ -125,13 +106,13 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 
 <p align="center">
   <a href="https://linkedin.com/in/shavukari-sandeep">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/sandy_20499">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://sandeep-portfolio-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=react&logoColor=white"/>
   </a>
 </p>
 
