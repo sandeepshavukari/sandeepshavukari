@@ -76,8 +76,23 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sandy_20499?theme=light&font=Fira%20Code" />
+  <a href="https://leetcode.com/sandy_20499" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sandy_20499?theme=light&font=Fira%20Code" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/sandy20499" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://www.codechef.com/users/sandy20499" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Problem%20Solver-brown?style=for-the-badge&logo=codechef" />
+  </a>
+  <a href="https://codeforces.com/profile/sandy_20499" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Active-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
+
 
 ---
 
