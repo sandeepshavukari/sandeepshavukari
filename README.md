@@ -80,15 +80,6 @@ I'm a passionate **Full-Stack Developer** pursuing **BTech in Computer Science a
     <img src="https://leetcard.jacoblin.cool/sandy_20499?theme=light&font=Fira%20Code" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-sandy20499-brown?style=for-the-badge&logo=codechef" />
-  <br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-success?style=flat-square" />
-</p>
-
-
-
 ---
 
 ## 📜 Certifications
