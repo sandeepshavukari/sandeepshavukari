@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Transforming+ideas+into+reality;Building+scalable+solutions;Clean+code+enthusiast" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/shavukari-sandeep">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
